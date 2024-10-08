@@ -28,10 +28,24 @@
       "contributions": []
     },
     {
+      "login": "jasonjabbour",
+      "name": "jasonjabbour",
+      "avatar_url": "https://avatars.githubusercontent.com/jasonjabbour",
+      "profile": "https://github.com/jasonjabbour",
+      "contributions": []
+    },
+    {
       "login": "V0XNIHILI",
       "name": "Douwe den Blanken",
       "avatar_url": "https://avatars.githubusercontent.com/V0XNIHILI",
       "profile": "https://github.com/V0XNIHILI",
+      "contributions": []
+    },
+    {
+      "login": "Mjrovai",
+      "name": "Marcelo Rovai",
+      "avatar_url": "https://avatars.githubusercontent.com/Mjrovai",
+      "profile": "https://github.com/Mjrovai",
       "contributions": []
     },
     {
@@ -77,17 +91,17 @@
       "contributions": []
     },
     {
-      "login": "Mjrovai",
-      "name": "Marcelo Rovai",
-      "avatar_url": "https://avatars.githubusercontent.com/Mjrovai",
-      "profile": "https://github.com/Mjrovai",
-      "contributions": []
-    },
-    {
       "login": "mpstewart1",
       "name": "Matthew Stewart",
       "avatar_url": "https://avatars.githubusercontent.com/mpstewart1",
       "profile": "https://github.com/mpstewart1",
+      "contributions": []
+    },
+    {
+      "login": "Sara-Khosravi",
+      "name": "Sara Khosravi",
+      "avatar_url": "https://avatars.githubusercontent.com/Sara-Khosravi",
+      "profile": "https://github.com/Sara-Khosravi",
       "contributions": []
     },
     {
@@ -119,10 +133,10 @@
       "contributions": []
     },
     {
-      "login": "jasonjabbour",
-      "name": "jasonjabbour",
-      "avatar_url": "https://avatars.githubusercontent.com/jasonjabbour",
-      "profile": "https://github.com/jasonjabbour",
+      "login": "colbybanbury",
+      "name": "Colby Banbury",
+      "avatar_url": "https://avatars.githubusercontent.com/colbybanbury",
+      "profile": "https://github.com/colbybanbury",
       "contributions": []
     },
     {
@@ -133,17 +147,10 @@
       "contributions": []
     },
     {
-      "login": "colbybanbury",
-      "name": "Colby Banbury",
-      "avatar_url": "https://avatars.githubusercontent.com/colbybanbury",
-      "profile": "https://github.com/colbybanbury",
-      "contributions": []
-    },
-    {
-      "login": "andreamurillomtz",
-      "name": "Andrea",
-      "avatar_url": "https://avatars.githubusercontent.com/andreamurillomtz",
-      "profile": "https://github.com/andreamurillomtz",
+      "login": "alxrod",
+      "name": "Alex Rodriguez",
+      "avatar_url": "https://avatars.githubusercontent.com/alxrod",
+      "profile": "https://github.com/alxrod",
       "contributions": []
     },
     {
@@ -154,10 +161,17 @@
       "contributions": []
     },
     {
-      "login": "alxrod",
-      "name": "Alex Rodriguez",
-      "avatar_url": "https://avatars.githubusercontent.com/alxrod",
-      "profile": "https://github.com/alxrod",
+      "login": "andreamurillomtz",
+      "name": "Andrea",
+      "avatar_url": "https://avatars.githubusercontent.com/andreamurillomtz",
+      "profile": "https://github.com/andreamurillomtz",
+      "contributions": []
+    },
+    {
+      "login": "NaN",
+      "name": "Aghyad Deeb",
+      "avatar_url": "https://www.gravatar.com/avatar/1439f56088ae6ed2a84066d1396e3027?d=identicon&s=100",
+      "profile": "https://github.com/harvard-edge/cs249r_book/graphs/contributors",
       "contributions": []
     },
     {
@@ -169,16 +183,9 @@
     },
     {
       "login": "arnaumarin",
-      "name": "arnaumarin",
+      "name": "marin-llobet",
       "avatar_url": "https://avatars.githubusercontent.com/arnaumarin",
       "profile": "https://github.com/arnaumarin",
-      "contributions": []
-    },
-    {
-      "login": "aptl26",
-      "name": "Aghyad Deeb",
-      "avatar_url": "https://avatars.githubusercontent.com/aptl26",
-      "profile": "https://github.com/aptl26",
       "contributions": []
     },
     {
@@ -189,10 +196,24 @@
       "contributions": []
     },
     {
-      "login": "NaN",
+      "login": "aptl26",
       "name": "Aghyad Deeb",
-      "avatar_url": "https://www.gravatar.com/avatar/1439f56088ae6ed2a84066d1396e3027?d=identicon&s=100",
-      "profile": "https://github.com/harvard-edge/cs249r_book/graphs/contributors",
+      "avatar_url": "https://avatars.githubusercontent.com/aptl26",
+      "profile": "https://github.com/aptl26",
+      "contributions": []
+    },
+    {
+      "login": "Ekhao",
+      "name": "Emil Njor",
+      "avatar_url": "https://avatars.githubusercontent.com/Ekhao",
+      "profile": "https://github.com/Ekhao",
+      "contributions": []
+    },
+    {
+      "login": "MichaelSchnebly",
+      "name": "Michael Schnebly",
+      "avatar_url": "https://avatars.githubusercontent.com/MichaelSchnebly",
+      "profile": "https://github.com/MichaelSchnebly",
       "contributions": []
     },
     {
@@ -217,38 +238,10 @@
       "contributions": []
     },
     {
-      "login": "Ekhao",
-      "name": "Emil Njor",
-      "avatar_url": "https://avatars.githubusercontent.com/Ekhao",
-      "profile": "https://github.com/Ekhao",
-      "contributions": []
-    },
-    {
-      "login": "MichaelSchnebly",
-      "name": "Michael Schnebly",
-      "avatar_url": "https://avatars.githubusercontent.com/MichaelSchnebly",
-      "profile": "https://github.com/MichaelSchnebly",
-      "contributions": []
-    },
-    {
       "login": "mmaz",
       "name": "Mark Mazumder",
       "avatar_url": "https://avatars.githubusercontent.com/mmaz",
       "profile": "https://github.com/mmaz",
-      "contributions": []
-    },
-    {
-      "login": "jaywonchung",
-      "name": "Jae-Won Chung",
-      "avatar_url": "https://avatars.githubusercontent.com/jaywonchung",
-      "profile": "https://github.com/jaywonchung",
-      "contributions": []
-    },
-    {
-      "login": "Sara-Khosravi",
-      "name": "Sara Khosravi",
-      "avatar_url": "https://avatars.githubusercontent.com/Sara-Khosravi",
-      "profile": "https://github.com/Sara-Khosravi",
       "contributions": []
     },
     {
@@ -259,6 +252,13 @@
       "contributions": []
     },
     {
+      "login": "jaywonchung",
+      "name": "Jae-Won Chung",
+      "avatar_url": "https://avatars.githubusercontent.com/jaywonchung",
+      "profile": "https://github.com/jaywonchung",
+      "contributions": []
+    },
+    {
       "login": "BaeHenryS",
       "name": "Henry Bae",
       "avatar_url": "https://avatars.githubusercontent.com/BaeHenryS",
@@ -266,10 +266,38 @@
       "contributions": []
     },
     {
-      "login": "eurashin",
-      "name": "eurashin",
-      "avatar_url": "https://avatars.githubusercontent.com/eurashin",
-      "profile": "https://github.com/eurashin",
+      "login": "euranofshin",
+      "name": "Eura Nofshin",
+      "avatar_url": "https://avatars.githubusercontent.com/euranofshin",
+      "profile": "https://github.com/euranofshin",
+      "contributions": []
+    },
+    {
+      "login": "jzhou1318",
+      "name": "Jennifer Zhou",
+      "avatar_url": "https://avatars.githubusercontent.com/jzhou1318",
+      "profile": "https://github.com/jzhou1318",
+      "contributions": []
+    },
+    {
+      "login": "pongtr",
+      "name": "Pong Trairatvorakul",
+      "avatar_url": "https://avatars.githubusercontent.com/pongtr",
+      "profile": "https://github.com/pongtr",
+      "contributions": []
+    },
+    {
+      "login": "marcozennaro",
+      "name": "Marco Zennaro",
+      "avatar_url": "https://avatars.githubusercontent.com/marcozennaro",
+      "profile": "https://github.com/marcozennaro",
+      "contributions": []
+    },
+    {
+      "login": "AditiR-42",
+      "name": "Aditi Raju",
+      "avatar_url": "https://avatars.githubusercontent.com/AditiR-42",
+      "profile": "https://github.com/AditiR-42",
       "contributions": []
     },
     {
@@ -287,31 +315,17 @@
       "contributions": []
     },
     {
-      "login": "AditiR-42",
-      "name": "Aditi Raju",
-      "avatar_url": "https://avatars.githubusercontent.com/AditiR-42",
-      "profile": "https://github.com/AditiR-42",
+      "login": "alex-oesterling",
+      "name": "Alex Oesterling",
+      "avatar_url": "https://avatars.githubusercontent.com/alex-oesterling",
+      "profile": "https://github.com/alex-oesterling",
       "contributions": []
     },
     {
-      "login": "marcozennaro",
-      "name": "Marco Zennaro",
-      "avatar_url": "https://avatars.githubusercontent.com/marcozennaro",
-      "profile": "https://github.com/marcozennaro",
-      "contributions": []
-    },
-    {
-      "login": "pongtr",
-      "name": "Pong Trairatvorakul",
-      "avatar_url": "https://avatars.githubusercontent.com/pongtr",
-      "profile": "https://github.com/pongtr",
-      "contributions": []
-    },
-    {
-      "login": "jzhou1318",
-      "name": "Jennifer Zhou",
-      "avatar_url": "https://avatars.githubusercontent.com/jzhou1318",
-      "profile": "https://github.com/jzhou1318",
+      "login": "gnodipac886",
+      "name": "gnodipac886",
+      "avatar_url": "https://avatars.githubusercontent.com/gnodipac886",
+      "profile": "https://github.com/gnodipac886",
       "contributions": []
     },
     {
@@ -329,13 +343,6 @@
       "contributions": []
     },
     {
-      "login": "serco425",
-      "name": "Sercan Aygün",
-      "avatar_url": "https://avatars.githubusercontent.com/serco425",
-      "profile": "https://github.com/serco425",
-      "contributions": []
-    },
-    {
       "login": "BrunoScaglione",
       "name": "Bruno Scaglione",
       "avatar_url": "https://avatars.githubusercontent.com/BrunoScaglione",
@@ -343,23 +350,23 @@
       "contributions": []
     },
     {
-      "login": "gnodipac886",
-      "name": "gnodipac886",
-      "avatar_url": "https://avatars.githubusercontent.com/gnodipac886",
-      "profile": "https://github.com/gnodipac886",
-      "contributions": []
-    },
-    {
-      "login": "alex-oesterling",
-      "name": "alex-oesterling",
-      "avatar_url": "https://avatars.githubusercontent.com/alex-oesterling",
-      "profile": "https://github.com/alex-oesterling",
+      "login": "serco425",
+      "name": "Sercan Aygün",
+      "avatar_url": "https://avatars.githubusercontent.com/serco425",
+      "profile": "https://github.com/serco425",
       "contributions": []
     },
     {
       "login": "NaN",
-      "name": "Annie Laurie Cook",
-      "avatar_url": "https://www.gravatar.com/avatar/7cd8d5dfd83071f23979019d97655dc5?d=identicon&s=100",
+      "name": "songhan",
+      "avatar_url": "https://www.gravatar.com/avatar/c2dc311aa8122d5f5f061e1db14682b1?d=identicon&s=100",
+      "profile": "https://github.com/harvard-edge/cs249r_book/graphs/contributors",
+      "contributions": []
+    },
+    {
+      "login": "NaN",
+      "name": "Sophia Cho",
+      "avatar_url": "https://www.gravatar.com/avatar/da4d11538053ecff01479b351d152d92?d=identicon&s=100",
       "profile": "https://github.com/harvard-edge/cs249r_book/graphs/contributors",
       "contributions": []
     },
@@ -372,13 +379,6 @@
     },
     {
       "login": "NaN",
-      "name": "Costin-Andrei Oncescu",
-      "avatar_url": "https://www.gravatar.com/avatar/fc4f3460cdfb9365ab59bdeafb06413e?d=identicon&s=100",
-      "profile": "https://github.com/harvard-edge/cs249r_book/graphs/contributors",
-      "contributions": []
-    },
-    {
-      "login": "NaN",
       "name": "Batur Arslan",
       "avatar_url": "https://www.gravatar.com/avatar/35a8d9ffd03f05e79a2c6ce6206a56f2?d=identicon&s=100",
       "profile": "https://github.com/harvard-edge/cs249r_book/graphs/contributors",
@@ -386,9 +386,23 @@
     },
     {
       "login": "NaN",
-      "name": "Sophia Cho",
-      "avatar_url": "https://www.gravatar.com/avatar/da4d11538053ecff01479b351d152d92?d=identicon&s=100",
+      "name": "Annie Laurie Cook",
+      "avatar_url": "https://www.gravatar.com/avatar/7cd8d5dfd83071f23979019d97655dc5?d=identicon&s=100",
       "profile": "https://github.com/harvard-edge/cs249r_book/graphs/contributors",
+      "contributions": []
+    },
+    {
+      "login": "NaN",
+      "name": "Costin-Andrei Oncescu",
+      "avatar_url": "https://www.gravatar.com/avatar/fc4f3460cdfb9365ab59bdeafb06413e?d=identicon&s=100",
+      "profile": "https://github.com/harvard-edge/cs249r_book/graphs/contributors",
+      "contributions": []
+    },
+    {
+      "login": "BravoBaldo",
+      "name": "Baldassarre Cesarano",
+      "avatar_url": "https://avatars.githubusercontent.com/BravoBaldo",
+      "profile": "https://github.com/BravoBaldo",
       "contributions": []
     },
     {
@@ -399,6 +413,20 @@
       "contributions": []
     },
     {
+      "login": "ciyer64",
+      "name": "Curren Iyer",
+      "avatar_url": "https://avatars.githubusercontent.com/ciyer64",
+      "profile": "https://github.com/ciyer64",
+      "contributions": []
+    },
+    {
+      "login": "bilgeacun",
+      "name": "Bilge Acun",
+      "avatar_url": "https://avatars.githubusercontent.com/bilgeacun",
+      "profile": "https://github.com/bilgeacun",
+      "contributions": []
+    },
+    {
       "login": "abigailswallow",
       "name": "abigailswallow",
       "avatar_url": "https://avatars.githubusercontent.com/abigailswallow",
@@ -406,10 +434,10 @@
       "contributions": []
     },
     {
-      "login": "ciyer64",
-      "name": "Curren Iyer",
-      "avatar_url": "https://avatars.githubusercontent.com/ciyer64",
-      "profile": "https://github.com/ciyer64",
+      "login": "YangZhou1997",
+      "name": "Yang Zhou",
+      "avatar_url": "https://avatars.githubusercontent.com/YangZhou1997",
+      "profile": "https://github.com/YangZhou1997",
       "contributions": []
     },
     {
@@ -420,24 +448,17 @@
       "contributions": []
     },
     {
+      "login": "James-QiuHaoran",
+      "name": "Haoran Qiu",
+      "avatar_url": "https://avatars.githubusercontent.com/James-QiuHaoran",
+      "profile": "https://github.com/James-QiuHaoran",
+      "contributions": []
+    },
+    {
       "login": "FinAminToastCrunch",
       "name": "Fin Amin",
       "avatar_url": "https://avatars.githubusercontent.com/FinAminToastCrunch",
       "profile": "https://github.com/FinAminToastCrunch",
-      "contributions": []
-    },
-    {
-      "login": "NaN",
-      "name": "songhan",
-      "avatar_url": "https://www.gravatar.com/avatar/c2dc311aa8122d5f5f061e1db14682b1?d=identicon&s=100",
-      "profile": "https://github.com/harvard-edge/cs249r_book/graphs/contributors",
-      "contributions": []
-    },
-    {
-      "login": "YangZhou1997",
-      "name": "Yang Zhou",
-      "avatar_url": "https://avatars.githubusercontent.com/YangZhou1997",
-      "profile": "https://github.com/YangZhou1997",
       "contributions": []
     },
     {
